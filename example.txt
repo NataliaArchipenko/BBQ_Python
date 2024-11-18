@@ -1,0 +1,2 @@
+Dies ist der Inhalt einer Datei, der von Cell Magic %%writefile geschrieben wurde.
+Das ist noch eine Zeile.
